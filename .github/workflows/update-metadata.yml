@@ -1,8 +1,8 @@
 name: update metadata
 
 on:
-  schedule:
-    - cron: '0 23 * * *'
+  #schedule:
+  #  - cron: '0 23 * * *'
   workflow_dispatch:
 
 env:
@@ -17,7 +17,6 @@ jobs:
   update-metadata:
     if: github.repository == 'Rabenherz112/awesome-sysadmin-data'
     runs-on: ubuntu-latest
-    environment: production
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
       - run: make install
