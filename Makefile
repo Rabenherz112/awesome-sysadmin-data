@@ -15,7 +15,6 @@ install:
 .PHONY: import # import data from the original list at https://github.com/awesome-selfhosted/awesome-selfhosted
 import: clean install
 	git clone --depth=1 https://github.com/awesome-foss/awesome-sysadmin/
-	cp awesome-sysadmin/AUTHORS AUTHORS
 	rm -rf tags/ software/ platforms/
 	mkdir -p tags/ software/ platforms/
 	source .venv/bin/activate && \

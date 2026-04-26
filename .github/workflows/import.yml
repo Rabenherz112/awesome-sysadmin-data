@@ -16,3 +16,10 @@ jobs:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
       - run: make install
       - run: make import
+      - name: commit and push changes
+        run: |
+          git config user.name awesome-sysadmin-bot
+          git config user.email github-actions@github.com
+          git add software/ tags/ platforms/ licenses*.yml
+          git diff-index --quiet HEAD || git commit -m "[bot] import projects"
+          git push
