@@ -4,7 +4,7 @@ description: Modern, self-hosted monitoring tool with a clean UI and rich notifi
 licenses:
   - MIT
 platforms:
-  - NodeJS
+  - Nodejs
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/louislam/uptime-kuma

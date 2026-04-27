@@ -4,7 +4,7 @@ description: VPN client in a thin Docker container for multiple VPN providers, w
 licenses:
   - MIT
 platforms:
-  - docker
+  - Docker
 tags:
   - VPN
 source_code_url: https://github.com/qdm12/gluetun

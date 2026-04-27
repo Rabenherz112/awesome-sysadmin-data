@@ -3,7 +3,6 @@ website_url: https://www.ntpsec.org/
 description: A secure, hardened, and improved implementation of Network Time Protocol derived from NTP Classic.
 licenses:
   - BSD-2-Clause
-  - Custom
 platforms:
   - C
 tags:
