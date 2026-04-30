@@ -38,7 +38,7 @@ export_markdown:
 	rm -rf awesome-sysadmin/
 	git clone https://github.com/$(MARKDOWN_REPOSITORY)
 	source .venv/bin/activate && hecat --config .hecat/export-markdown.yml
-	cd awesome-sysadmin && git diff --color=always
+	cd awesome-sysadmin-markdown && git diff --color=always
 
 .PHONY: export_html # render HTML export from YAML data (https://sysadmin.awesome-selfhosted.net/)
 export_html:
