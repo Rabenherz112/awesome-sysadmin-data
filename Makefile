@@ -49,7 +49,6 @@ export_html:
 	source .venv/bin/activate && sphinx-build -b html -c .hecat/ html/md/ html/html/
 	rm -rf html/html/.buildinfo html/html/objects.inv html/html/.doctrees awesome-sysadmin-html/*
 	echo "# please do not scrape this site aggressively. Source code is available at https://github.com/awesome-foss/awesome-sysadmin-html. Raw data is available at https://github.com/awesome-foss/awesome-sysadmin-data" >| html/html/robots.txt
-	touch html/html/.nojekyll
 
 .PHONY: push_markdown # commit and push changes to the markdown repository
 push_markdown:
@@ -63,6 +62,7 @@ push_markdown:
 push_html:
 	$(eval COMMIT_HASH=$(shell git rev-parse --short HEAD))
 	mv html/html/* awesome-sysadmin-html/
+	touch awesome-sysadmin-html/.nojekyll
 	cd awesome-sysadmin-html/ && git remote set-url origin git@github.com:$(HTML_REPOSITORY)
 	cd awesome-sysadmin-html/ && git config user.name awesome-sysadmin-bot && git config user.email github-actions@github.com
 	cd awesome-sysadmin-html/ && git add . && (git diff-index --quiet HEAD || git commit --amend -m "[bot] build HTML from awesome-sysadmin-data $(COMMIT_HASH)")
