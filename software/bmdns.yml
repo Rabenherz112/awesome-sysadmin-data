@@ -1,6 +1,6 @@
 name: BMDNS
 website_url: https://github.com/ryzeon-dev/bmdns
-description: A lightweight DNS server for homelabs: local records, ad-blocking, VLAN segmentation, and DoT support. No database, no web UI, just DNS.
+description: A lightweight DNS server for homelabs local records, ad-blocking, VLAN segmentation, and DoT support. No database, no web UI, just DNS.
 licenses:
   - CC-BY-SA-4.0
 platforms:
