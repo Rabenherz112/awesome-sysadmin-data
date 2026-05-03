@@ -5,6 +5,6 @@ licenses:
   - CC-BY-SA-4.0
 platforms:
   - Docker
-tags: 
- - DNS - Servers
+tags:
+  - DNS - Servers
 source_code_url: https://github.com/ryzeon-dev/bmdns
