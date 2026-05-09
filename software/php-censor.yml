@@ -8,13 +8,3 @@ platforms:
 tags:
   - Continuous Integration & Continuous Deployment
 source_code_url: https://github.com/php-censor/php-censor
-stargazers_count: 686
-updated_at: '2025-03-29'
-archived: false
-current_release:
-  tag: 2.1.6
-  published_at: '2025-03-15'
-commit_history:
-  2026-03: 0
-  2026-04: 0
-  2026-05: 0

@@ -8,13 +8,3 @@ platforms:
 tags:
   - Deployment Automation
 source_code_url: https://github.com/capistrano/capistrano
-stargazers_count: 12949
-updated_at: '2026-05-02'
-archived: false
-current_release:
-  tag: v3.20.0
-  published_at: '2025-12-13'
-commit_history:
-  2026-03: 0
-  2026-04: 1
-  2026-05: 1

@@ -10,13 +10,3 @@ platforms:
 tags:
   - PaaS
 source_code_url: https://github.com/localstack/localstack
-stargazers_count: 64901
-updated_at: '2026-03-23'
-archived: true
-current_release:
-  tag: v4.14.0
-  published_at: '2026-02-26'
-commit_history:
-  2026-03: 17
-  2026-04: 0
-  2026-05: 0

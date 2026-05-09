@@ -8,13 +8,3 @@ platforms:
 tags:
   - ChatOps
 source_code_url: https://github.com/eggheads/eggdrop
-stargazers_count: 572
-updated_at: '2026-05-03'
-archived: false
-current_release:
-  tag: v1.10.1
-  published_at: '2025-08-16'
-commit_history:
-  2026-03: 15
-  2026-04: 14
-  2026-05: 12

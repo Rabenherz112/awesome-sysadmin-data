@@ -10,13 +10,3 @@ tags:
   - Deployment Automation
 source_code_url: https://github.com/ku9nov/faynoSync
 related_software_url: https://github.com/ku9nov/faynoSync-dashboard
-stargazers_count: 147
-updated_at: '2026-05-08'
-archived: false
-current_release:
-  tag: v1.5.12
-  published_at: '2026-05-08'
-commit_history:
-  2026-03: 17
-  2026-04: 33
-  2026-05: 11
