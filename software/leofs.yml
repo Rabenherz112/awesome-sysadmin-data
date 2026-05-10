@@ -8,13 +8,3 @@ platforms:
 tags:
   - Distributed Filesystems
 source_code_url: https://github.com/leo-project/leofs
-stargazers_count: 1590
-updated_at: '2020-06-02'
-archived: false
-current_release:
-  tag: 1.4.4
-  published_at: '2020-06-02'
-commit_history:
-  2026-03: 0
-  2026-04: 0
-  2026-05: 0

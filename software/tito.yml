@@ -8,13 +8,3 @@ platforms:
 tags:
   - Packaging
 source_code_url: https://github.com/rpm-software-management/tito
-stargazers_count: 399
-updated_at: '2026-02-23'
-archived: false
-current_release:
-  tag: tito-0.6.27-1
-  published_at: '2024-11-11'
-commit_history:
-  2026-03: 0
-  2026-04: 0
-  2026-05: 0

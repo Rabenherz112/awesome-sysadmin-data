@@ -10,13 +10,3 @@ platforms:
 tags:
   - Identity Management - Tools and web interfaces
 source_code_url: https://github.com/zitadel/zitadel
-stargazers_count: 13724
-updated_at: '2026-05-04'
-archived: false
-current_release:
-  tag: v4.15.0
-  published_at: '2026-05-04'
-commit_history:
-  2026-03: 91
-  2026-04: 53
-  2026-05: 1
