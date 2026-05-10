@@ -8,3 +8,13 @@ platforms:
 tags:
   - VPN
 source_code_url: https://github.com/juanfont/headscale
+stargazers_count: 38216
+updated_at: '2026-05-09'
+archived: false
+current_release:
+  tag: v0.28.0
+  published_at: '2026-02-04'
+commit_history:
+  2026-03: 61
+  2026-04: 161
+  2026-05: 8

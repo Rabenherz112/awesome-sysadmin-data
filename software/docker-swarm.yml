@@ -8,3 +8,13 @@ platforms:
 tags:
   - Software Containers
 source_code_url: https://github.com/moby/swarmkit
+stargazers_count: 3610
+updated_at: '2026-04-21'
+archived: false
+current_release:
+  tag: v2.1.2
+  published_at: '2026-04-23'
+commit_history:
+  2026-03: 0
+  2026-04: 4
+  2026-05: 0

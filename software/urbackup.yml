@@ -9,3 +9,13 @@ platforms:
 tags:
   - Backups
 source_code_url: https://github.com/uroni/urbackup_backend
+stargazers_count: 862
+updated_at: '2026-01-15'
+archived: false
+current_release:
+  tag: 2.5.37
+  published_at: '2026-04-23'
+commit_history:
+  2026-03: 0
+  2026-04: 0
+  2026-05: 0
