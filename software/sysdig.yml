@@ -10,3 +10,13 @@ platforms:
 tags:
   - Troubleshooting
 source_code_url: https://github.com/draios/sysdig
+stargazers_count: 8243
+updated_at: '2026-04-13'
+archived: false
+current_release:
+  tag: 0.41.4
+  published_at: '2026-01-29'
+commit_history:
+  2026-03: 0
+  2026-04: 4
+  2026-05: 0

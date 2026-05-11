@@ -8,3 +8,13 @@ platforms:
 tags:
   - PaaS
 source_code_url: https://github.com/openfaas/faas
+stargazers_count: 26156
+updated_at: '2026-04-01'
+archived: false
+current_release:
+  tag: 0.27.13
+  published_at: '2025-08-29'
+commit_history:
+  2026-03: 1
+  2026-04: 2
+  2026-05: 0

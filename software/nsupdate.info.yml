@@ -9,3 +9,13 @@ tags:
   - DNS - Control Panels & Domain Management
 source_code_url: https://github.com/nsupdate-info/nsupdate.info
 demo_url: https://www.nsupdate.info/account/register/
+stargazers_count: 1128
+updated_at: '2026-05-03'
+archived: false
+current_release:
+  tag: 0.13.0
+  published_at: '2026-04-21'
+commit_history:
+  2026-03: 6
+  2026-04: 176
+  2026-05: 14
