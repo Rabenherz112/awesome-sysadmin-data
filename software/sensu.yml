@@ -8,13 +8,3 @@ platforms:
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/sensu/sensu-go
-stargazers_count: 1102
-updated_at: '2025-07-10'
-archived: false
-current_release:
-  tag: v6.14.1
-  published_at: '2026-05-04'
-commit_history:
-  2026-03: 0
-  2026-04: 0
-  2026-05: 0

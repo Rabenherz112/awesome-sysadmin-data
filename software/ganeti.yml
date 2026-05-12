@@ -9,13 +9,3 @@ platforms:
 tags:
   - Virtualization
 source_code_url: https://github.com/ganeti/ganeti
-stargazers_count: 572
-updated_at: '2026-05-08'
-archived: false
-current_release:
-  tag: v3.1.1
-  published_at: '2026-04-27'
-commit_history:
-  2026-03: 7
-  2026-04: 11
-  2026-05: 2

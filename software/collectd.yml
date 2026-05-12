@@ -8,13 +8,3 @@ platforms:
 tags:
   - Metrics & Metric Collection
 source_code_url: https://github.com/collectd/collectd
-stargazers_count: 3352
-updated_at: '2025-12-08'
-archived: false
-current_release:
-  tag: collectd-6.0.0.rc3
-  published_at: '2024-02-21'
-commit_history:
-  2026-03: 0
-  2026-04: 0
-  2026-05: 0

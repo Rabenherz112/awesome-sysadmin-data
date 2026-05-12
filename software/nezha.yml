@@ -9,13 +9,3 @@ platforms:
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/nezhahq/nezha
-stargazers_count: 9994
-updated_at: '2026-05-09'
-archived: false
-current_release:
-  tag: v2.0.7
-  published_at: '2026-04-05'
-commit_history:
-  2026-03: 8
-  2026-04: 1
-  2026-05: 1
