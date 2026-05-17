@@ -8,3 +8,10 @@ platforms:
 tags:
   - Distributed Filesystems
 source_code_url: https://github.com/LINBIT/drbd
+stargazers_count: 700
+updated_at: '2026-05-12'
+archived: false
+commit_history:
+  2026-03: 59
+  2026-04: 78
+  2026-05: 11

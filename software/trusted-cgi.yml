@@ -10,3 +10,13 @@ platforms:
 tags:
   - PaaS
 source_code_url: https://github.com/reddec/trusted-cgi
+stargazers_count: 249
+updated_at: '2024-09-27'
+archived: false
+current_release:
+  tag: v0.4.0
+  published_at: '2023-12-29'
+commit_history:
+  2026-03: 0
+  2026-04: 0
+  2026-05: 0
