@@ -8,13 +8,3 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/OpenVoxProject/openbolt
-stargazers_count: 22
-updated_at: '2026-05-15'
-archived: false
-current_release:
-  tag: 5.5.0
-  published_at: '2026-04-30'
-commit_history:
-  2026-03: 58
-  2026-04: 35
-  2026-05: 15

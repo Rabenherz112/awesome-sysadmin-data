@@ -9,13 +9,3 @@ platforms:
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/shevabam/ezservermonitor-web
-stargazers_count: 360
-updated_at: '2023-07-18'
-archived: false
-current_release:
-  tag: v2.5
-  published_at: '2015-09-17'
-commit_history:
-  2026-03: 0
-  2026-04: 0
-  2026-05: 0

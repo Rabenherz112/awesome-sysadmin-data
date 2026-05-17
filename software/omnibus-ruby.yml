@@ -8,13 +8,3 @@ platforms:
 tags:
   - Packaging
 source_code_url: https://github.com/chef/omnibus
-stargazers_count: 1312
-updated_at: '2025-12-09'
-archived: false
-current_release:
-  tag: v3.2.0
-  published_at: '2014-07-23'
-commit_history:
-  2026-03: 0
-  2026-04: 0
-  2026-05: 0

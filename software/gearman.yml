@@ -8,13 +8,3 @@ platforms:
 tags:
   - Queuing
 source_code_url: https://github.com/gearman/gearmand
-stargazers_count: 759
-updated_at: '2026-04-20'
-archived: false
-current_release:
-  tag: 1.1.22
-  published_at: '2025-08-25'
-commit_history:
-  2026-03: 5
-  2026-04: 10
-  2026-05: 0
