@@ -8,3 +8,13 @@ platforms:
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/alexmyczko/ruptime
+stargazers_count: 207
+updated_at: '2026-04-15'
+archived: false
+current_release:
+  tag: '1.8'
+  published_at: '2024-02-26'
+commit_history:
+  2026-03: 0
+  2026-04: 3
+  2026-05: 0

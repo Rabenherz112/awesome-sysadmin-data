@@ -10,3 +10,13 @@ platforms:
 tags:
   - PaaS
 source_code_url: https://github.com/nhost/nhost
+stargazers_count: 9158
+updated_at: '2026-05-18'
+archived: false
+current_release:
+  tag: '@nhost/nhost-js@4.7.1'
+  published_at: '2026-05-18'
+commit_history:
+  2026-03: 110
+  2026-04: 89
+  2026-05: 47
