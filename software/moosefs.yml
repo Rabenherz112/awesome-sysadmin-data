@@ -8,3 +8,13 @@ platforms:
 tags:
   - Distributed Filesystems
 source_code_url: https://github.com/moosefs/moosefs
+stargazers_count: 1976
+updated_at: '2026-05-18'
+archived: false
+current_release:
+  tag: v4.59.2
+  published_at: '2026-05-18'
+commit_history:
+  2026-03: 11
+  2026-04: 4
+  2026-05: 4

@@ -8,3 +8,13 @@ platforms:
 tags:
   - Backups
 source_code_url: https://github.com/EnterpriseDB/barman
+stargazers_count: 3152
+updated_at: '2026-05-19'
+archived: false
+current_release:
+  tag: release/3.19.0
+  published_at: '2026-05-20'
+commit_history:
+  2026-03: 114
+  2026-04: 47
+  2026-05: 37

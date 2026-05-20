@@ -9,3 +9,13 @@ platforms:
 tags:
   - Configuration Management
 source_code_url: https://github.com/OpenVoxProject/openvox
+stargazers_count: 168
+updated_at: '2026-05-20'
+archived: false
+current_release:
+  tag: 8.27.0
+  published_at: '2026-05-15'
+commit_history:
+  2026-03: 21
+  2026-04: 58
+  2026-05: 32

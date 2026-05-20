@@ -8,3 +8,13 @@ platforms:
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/riemann/riemann
+stargazers_count: 4264
+updated_at: '2026-04-05'
+archived: false
+current_release:
+  tag: 0.3.12
+  published_at: '2025-05-26'
+commit_history:
+  2026-03: 0
+  2026-04: 1
+  2026-05: 0

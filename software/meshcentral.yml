@@ -9,3 +9,13 @@ platforms:
 tags:
   - Control Panels
 source_code_url: https://github.com/ylianst/meshcentral
+stargazers_count: 6569
+updated_at: '2026-05-17'
+archived: false
+current_release:
+  tag: 1.1.59
+  published_at: '2026-04-22'
+commit_history:
+  2026-03: 38
+  2026-04: 21
+  2026-05: 22
